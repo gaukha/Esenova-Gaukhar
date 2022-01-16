@@ -1,0 +1,74 @@
+body{
+  float: left;
+}
+#boot{
+  background-color:#8fbc8f;
+}
+.boot-img {
+  width: 80%;
+  margin-left: 10px;
+  padding: 0;
+}
+.sign-button {
+    margin-right: 2px;
+    margin-left: 1100px;
+    border-left-width: 1px;
+    width: 126px;
+    height: 49px;
+}
+.nav-item {
+  padding: 0 50px;
+  font-weight: lighter;
+  font-size: 1.5rem;
+}
+#inspo{
+background-color:"#8fbc8f";
+}
+
+hr{
+border-width:1px;
+border-color:black;
+}
+.heeader{
+  color: black;
+}
+h2 {
+  margin:0;
+  color: black;
+  position: center;
+}
+.headpic{
+margin-left:400px;
+
+margin-top:0;
+}
+table {
+  margin:20;
+}
+h2{
+  size:30;
+}
+h3{
+  size:20;
+}
+.fish{
+  border-style: dotted;
+  border-width: 2px;
+  width: 100%;
+  padding: 12px 20px;
+}
+.asian{
+  border-style: dotted;
+  border-width: 2px;
+  width: 100%;
+}
+.ice{
+  border-style: dotted;
+  border-width: 2px;
+  width: 100%;
+}
+.banof {
+  width: 100%;
+  border-style: dotted;
+  border-width: 2px;
+}
